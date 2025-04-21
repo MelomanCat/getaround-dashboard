@@ -1,0 +1,79 @@
+/* style.css */
+
+div.block-container {
+    max-width: 1500px;
+    background-color: #F6F8FF;
+    margin: auto;
+    text-align: left;
+    font-size: 20px;
+}
+
+.insights {
+    font-size: 18px; 
+    color: #333; 
+    margin: 20px 0; 
+}
+
+.insights-title {
+    font-size: 32px; 
+    color: #007BFF; 
+    margin-bottom: 20px; 
+}
+
+.insights-list {
+    list-style-type: none; 
+    padding-left: 0; 
+}
+
+.insight-item {
+    margin-bottom: 10px; 
+}
+
+.insight-item strong {
+    color: #6d089c; 
+    font-weight: bold; 
+}
+
+/* Conclusions */
+.conclusions {
+    font-size: 20px; 
+    color: #333; 
+    margin: 20px 0; 
+}
+
+.conclusions-title {
+    font-size: 32px; 
+    color: #007BFF; 
+    margin-bottom: 20px; 
+}
+
+.conclusions-list {
+    list-style-type: none; 
+    padding-left: 0; 
+}
+
+.conclusions-item {
+    margin-bottom: 10px; 
+}
+
+.conclusions-item strong {
+    color: #6d089c; 
+    font-weight: bold; 
+}
+
+/* Recommendations */
+.recommendations {
+    font-size: 20px; 
+    color: #333; 
+    margin-bottom: 20px; 
+}
+.recommendations-list {
+    list-style-type: none; 
+    padding-left: 20px; 
+    margin-bottom: 40px;    
+}
+
+.recommendations-item strong {
+    color: #6d089c; 
+    font-weight: bold; 
+}

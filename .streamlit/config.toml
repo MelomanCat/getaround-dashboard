@@ -1,0 +1,15 @@
+
+[browser]
+serverAddress = "localhost"
+serverPort = 4000
+
+[server]
+address = "0.0.0.0"
+port = 4000
+
+[theme]
+primaryColor = "#0E76A8"                
+backgroundColor = "#FFFFFF"             
+secondaryBackgroundColor = "#F5F7FA"    
+textColor = "#262730"                   
+font = "sans serif"
