@@ -9,7 +9,7 @@ Revenue loss: Share of potentially lost revenue due to skipped rentals
 Scope and thresholds: Simulations for different delay thresholds (30-180 min) and scope (all cars vs. Connect only)
 
 🚀 Live Demo
-👉 Open the Dashboard on Streamlit
+👉 Open the Dashboard on Streamlit: https://getaround-project-dashboard.streamlit.app/
 
 
 📁 Files
