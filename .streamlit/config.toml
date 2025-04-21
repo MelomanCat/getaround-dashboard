@@ -1,11 +1,11 @@
 
 [browser]
-serverAddress = "localhost"
-serverPort = 4000
+serverAddress = "0.0.0.0"
+serverPort = 8501
 
 [server]
 address = "0.0.0.0"
-port = 4000
+port = 8501
 
 [theme]
 primaryColor = "#0E76A8"                
